@@ -42,15 +42,10 @@ tools:
   {
     "@context": "http://schema.org/",
     "@type": "Person",
-    "name": "Matt Grey",
-    "jobTitle": "UX Designer",
-    "nationality": "British",
-    "url": "http://www.himatt.com/",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "London",
-      "addressCountry": "United Kingdom"
-    }
+    "name": "Sage Hahn",
+    "jobTitle": "Programmer",
+    "nationality": "American",
+    "url": "http://www.sagehahn.com/",
   }
 </script>
 
@@ -85,17 +80,6 @@ tools:
             {% for education-item in page.education %}
               <dt class="relational-list__title">{{ education-item.course | markdownify}}</dt>
               <dd class="relational-list__description">{{ education-item.place | markdownify}}</dd>
-            {% endfor %}
-          </dl>
-        </div>
-
-        <div class="about-section about-section--nested">
-          <h3 class="about-section-title type-level-2">Competitions</h3>
-          <dl class="relational-list">
-            {% for competition-item in page.competitions %}
-              <dt class="relational-list__title">{{ competition-item.event | markdownify}}</dt>
-              <dd class="relational-list__description relational-list__description--period">{{ competition-item.period | markdownify}}</dd>
-              <dd class="relational-list__description"><a href="{{ competition-item.link }}">{{ competition-item.result | markdownify}}</a></dd>
             {% endfor %}
           </dl>
         </div>
