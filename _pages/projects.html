@@ -18,15 +18,15 @@ priority: 1.0
 <div class="projects">
 {% for project in site.projects reversed limit:include.limit %}
   <article class="project-listing">
-    <div class="thumbnail-wrapper">
+    <div class="thumbnail-wrapper" style="width: 23em">
       <a href="{{ project.url | prepend: site.baseurl }}">
-        <div class="thumbnail-description-wrapper">
-          <img src="{{ project.thumbnail | prepend: site.image_serve_path }}" alt="{{ project.title }}" width="600" height="450">
+        <div class="thumbnail-description-wrapper" >
+          <img src="{{ project.thumbnail | prepend: site.image_serve_path }}" alt="{{ project.title }}"  style="object-fit: contain; height: 100%; width: 100%;">
           <p class="thumbnail-description">
             <span>{{ project.description }}</span>
           </p>
         </div>
-        <h3 aria-hidden="true">{{ project.title }}</h3>
+        <h3 aria-hidden="true" style="text-align: center;">{{ project.title }}</h3>
       </a>
     </div>
   </article>
