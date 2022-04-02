@@ -23,7 +23,7 @@ long-title: Sage Hahn Website
 email: sahforever82@gmail.com
 description: "Personal website for Sage Hahn"
 baseurl: ""
-url: "https://sagehahn.com" # the base hostname & protocol for your site
+url: "https://sahahn.github.io/personal_website/" # the base hostname & protocol for your site
 timezone: EST
 year: 2022
 start-year: 2022
