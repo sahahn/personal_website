@@ -6,18 +6,10 @@ priority: 0.9
 
 intro: |
 
-  I'm Sage. 
+  I'm Sage. I'm current a PhD student at the university of Vermont in the Complex Systems and Data Science program.
 
 profile_picture: /images/profile-pictures/profile.jpg
 
-experience:
-  - company: None
-    position: None
-    period: August 2020 - Present
-
-  - company: None 2
-    position: None 2
-    period: July 2019 - August 2020
 
 education:
   - course: None
@@ -35,6 +27,9 @@ skills:
 tools:
   - None
   - None2
+
+fake:
+  - Real elf boy
   
 ---
 
@@ -60,18 +55,6 @@ tools:
     </div>
 
     <div class="about-attributes">
-      <div class="about-experience">
-        <div class="about-section">
-          <h3 class="about-section-title type-level-2">Experience</h3>
-          <dl class="relational-list">
-            {% for experience-item in page.experience %}
-              <dt class="relational-list__title">{{ experience-item.company | markdownify}}</dt>
-              <dd class="relational-list__description relational-list__description--period">{{ experience-item.period | markdownify}}</dd>
-              <dd class="relational-list__description">{{ experience-item.position | markdownify}}</dd>
-            {% endfor %}
-          </dl>
-        </div>
-      </div>
 
       <div class="about-education">
         <div class="about-section">
@@ -106,6 +89,19 @@ tools:
           </ul>
         </div>
       </div>
+
+      <div class="about-fake-quals">
+        <div class="about-section">
+          <h3 class="about-section-title type-level-2">Fake Qualifications</h3>
+          <ul class="list--dashed">
+            {% for f in page.fake %}
+              <li>{{ f }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+
+
     </div>
 
   </div>
