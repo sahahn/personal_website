@@ -1,0 +1,82 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# plugins:
+
+exclude:
+  - readme.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+
+include:
+  - _pages
+  - _redirects
+
+# Site settings
+title: Sage Hahn
+long-title: Sage Hahn Website
+email: sahforever82@gmail.com
+description: "Personal website for Sage Hahn"
+baseurl: ""
+url: "https://sagehahn.com" # the base hostname & protocol for your site
+timezone: EST
+year: 2022
+start-year: 2022
+sitemap: true
+
+# Social networks
+social-username:
+  twitter: "@sagehahn11"
+  linkedin: "sage-hahn-1043a6156"
+  github: "sahahn"
+
+# Content
+image_serve_path: "/images"
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+
+# Sass output
+sass:
+  style: compressed
+
+compress_html:
+  enabled: true
+  clippings: all
+  comments: []
+  endings: []
+  blanklines: false
+  profile: false
+  startings: []
+
+# Structure
+navigation:
+  - title: Projects
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+
+permalink: /:title/
+
+# Configure site collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
