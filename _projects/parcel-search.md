@@ -1,5 +1,5 @@
 ---
-date: 2022-1-1
+date: 2020-1-3
 published: true
 title: "Evolutionary Generated Parcellations"
 description: "Evolutionary generated task fMRI surface parcellations."
