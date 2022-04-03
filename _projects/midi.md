@@ -3,8 +3,7 @@ date: 2017-5-5
 published: true
 title: "MIDI to LED"
 description: "Transform MIDI keyboard signal to Visual LEDs"
-categories: Python
-disciplines: LED, DMX, MIDI, python
+project_tags: python, class project
 media: Website
 ownership:
 time_period: 2020-present

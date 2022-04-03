@@ -3,8 +3,7 @@ date: 2020-1-3
 published: true
 title: "Evolutionary Generated Parcellations"
 description: "Evolutionary generated task fMRI surface parcellations."
-categories: ML, neuroimaging
-disciplines: python, NeuroImaging
+project_tags: python, NeuroImaging, Research
 media: Website
 ownership:
 time_period: 2020-present
@@ -23,15 +22,15 @@ intro: |
 
 content_layout:
 
-  - section_layout: 1col
+  - section_layout: 2col
     images:
-      - caption: Generate random parcellation
-        description: 'Github'
+      - caption: Visualizing how random parcellations are generated within the context of this project.
+        description: Generate a new random parcellation.
         url: '/projects/parcel-search/rand_parc.gif'
-        width:
-        height:
+    videos:
+      - caption: Evolutionary Search
+        description: Github
+        url: 'https://www.youtube.com/embed/fAOiT886qB8'
 
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fAOiT886qB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen allow='autoplay'></iframe>
 

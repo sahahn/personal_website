@@ -3,8 +3,7 @@ date: 2019-10-1
 published: true
 title: "Automated Endoleak and AAA Detection"
 description: "Automated Detection and Segmentation of Endoleaks and Abdominal Aortic Aneurysm"
-categories: ML, neuroimaging
-disciplines: python, NeuroImaging
+project_tags: python, Medical Imaging, Deep Learning, Research
 media: Website
 ownership:
 time_period: 2020-present
