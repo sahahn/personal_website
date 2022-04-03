@@ -21,7 +21,7 @@
       {% endcapture %}
 
       <figure class="image-wrapper {{ image.positioning }}">
-        <img class="{{ image.border }}" src="{{ image.url | prepend: site.image_serve_path }}" alt="{{ stored_description | normalize_whitespace }}" style="height: 80%; width: 100%; min-height: 50%;">
+        <img class="{{ image.border }}" src="{{ image.url | prepend: site.image_serve_path }}" alt="{{ stored_description | normalize_whitespace }}" style="height: 80%; width: 100%; min-height: 20em; ">
         {% if image.caption %}
           <figcaption>{{ image.caption }}</figcaption>
         {% endif %}
@@ -42,7 +42,7 @@
       {% endcapture %}
 
       <figure class="image-wrapper {{ image.positioning }}">
-        <iframe class="{{ image.border }}" src="{{image.url}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen allow='autoplay' style="height: 80%; width: 100%; min-height: 50%;"></iframe>
+        <iframe class="{{ image.border }}" src="{{image.url}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen allow='autoplay' style="height: 80%; width: 100%; min-height: 20em;"></iframe>
         {% if image.caption %}
           <figcaption>{{ image.caption }}</figcaption>
         {% endif %}

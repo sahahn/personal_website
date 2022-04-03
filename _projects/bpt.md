@@ -26,25 +26,17 @@ content_layout:
       - caption: Screenshot from github
         description: 'Github'
         url: '/projects/bpt/bpt2.png'
-        width:
-        height:
+
       - caption: Example of loading data into Dataset object
         description: 'Example  1'
         url: '/projects/bpt/bpt4.png'
-        width:
-        height:
-  
-  - section_layout: 2col
-    images:
+
       - caption: Screenshot from documentation
         description: 'Docs'
         url: '/projects/bpt/bpt1.png'
-        width:
-        height:
+        
       - caption: Example of running default ML Pipeline
         description: 'Example 2'
         url: '/projects/bpt/bpt3.png'
-        width:
-        height:
 
 ---

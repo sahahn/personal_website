@@ -15,8 +15,6 @@ website:
 
 intro: |
 
-
-
     The project source code is hosted through [github](https://github.com/sahahn/Parcel_Search).
 
 

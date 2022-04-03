@@ -6,7 +6,7 @@ description: "Transform MIDI keyboard signal to Visual LEDs"
 project_tags: python, class project
 media: Website
 ownership:
-time_period: 2020-present
+time_period: Spring 2017
 thumbnail: "/projects/midi/leds.gif"
 
 website:
@@ -17,24 +17,41 @@ intro: |
 
   None
 
+content_layout:
+
+  - section_layout: 2col
+    videos:
+      - caption: Example 1
+        description:
+        url: https://www.youtube.com/embed/Q8Tk1M4IgpE
+      - caption: Example 2
+        description:
+        url: https://www.youtube.com/embed/bsNoRV7Eb2Y
+      - caption: Example 3
+        description:
+        url: https://www.youtube.com/embed/w3B-1EW2MSo
+      - caption: Example 4
+        description:
+        url: https://www.youtube.com/embed/042kaBATpds
+      - caption: Example 5
+        description:
+        url: https://www.youtube.com/embed/Eih_KhQyiv0
+      - caption: Example 6
+        description:
+        url: https://www.youtube.com/embed/-cOBobb4gyw
+      - caption: Example 7
+        description:
+        url: https://www.youtube.com/embed/pIqBf1KsHaQ
+      - caption: Example 8
+        description:
+        url: https://www.youtube.com/embed/qmIDU4kbc8s
+      - caption: Example 9
+        description:
+        url: https://www.youtube.com/embed/PC34eS8qTjY
+      - caption: Example 10
+        description:
+        url: https://www.youtube.com/embed/-K-Lj-gQw3A
+
+
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q8Tk1M4IgpE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bsNoRV7Eb2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w3B-1EW2MSo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/042kaBATpds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Eih_KhQyiv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-cOBobb4gyw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pIqBf1KsHaQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmIDU4kbc8s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PC34eS8qTjY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-K-Lj-gQw3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
