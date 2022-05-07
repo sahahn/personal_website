@@ -1,5 +1,5 @@
 ---
-date: 2022-1-1
+date: 2023-1-1
 published: true
 title: "Brain Predictability Toolbox"
 description: "The Brain Predictability toolbox (BPt), is a python based Machine Learning library designed for neuroimaging."
