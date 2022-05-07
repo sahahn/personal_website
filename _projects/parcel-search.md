@@ -6,7 +6,7 @@ description: "Evolutionary generated task fMRI surface parcellations."
 project_tags: python, NeuroImaging, Research
 media: Website
 ownership:
-time_period: 2020-present
+time_period: 2020-2020
 thumbnail: "/projects/parcel-search/generate.gif"
 
 website:
@@ -14,19 +14,23 @@ website:
   url: https://github.com/sahahn/Parcel_Search
 
 intro: |
-
+    This project, while ultimately unsuccesful, aimed to generate novel parcellations based on their predictive merit. To do this,
+    a specially designed evolutionary search was performed, where parcellations themselves were mutated and evaluated.
     The project source code is hosted through [github](https://github.com/sahahn/Parcel_Search).
+
+    The eventual key take-away from this work was actually the realization that parcellations with higher numbers of parcels performed better than their lower
+    parcel counter-parts. This led to follow-up work in [Performance Scaling for Parcellations](../parc-scaling)
 
 
 content_layout:
 
   - section_layout: 2col
     images:
-      - caption: Visualizing how random parcellations are generated within the context of this project.
+      - caption: Visualizing how random parcellations were generated from a series of seed regions in this project.
         description: Generate a new random parcellation.
         url: '/projects/parcel-search/rand_parc.gif'
     videos:
-      - caption: Evolutionary Search
+      - caption: Process outlining a simple example of how parcellations were generated and evaluated in the context of the evolutionary search.
         description: Github
         url: 'https://www.youtube.com/embed/fAOiT886qB8'
 
