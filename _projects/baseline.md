@@ -7,7 +7,7 @@ project_tags: python, Research
 media: Paper
 ownership:
 time_period: 2018-2019
-thumbnail: "/projects/baseline/sst.png"
+thumbnail: "/projects/baseline/sst.jpg"
 
 website:
   button_text: See the associated paper
