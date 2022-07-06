@@ -1,7 +1,7 @@
 ---
 date: 2021-5-5
 published: true
-title: "Performance Scaling for Parcellations"
+title: "Performance Scaling for Brain Parcellations"
 description: "Performance Scaling for Structural MRI Surface Parcellations"
 project_tags: python, ML, NeuroImaging
 media: Website
