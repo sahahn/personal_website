@@ -7,7 +7,7 @@ project_tags: python, ML, NeuroImaging
 media: Website
 ownership:
 time_period: 2020-present
-thumbnail: "/projects/bpt/red_logo.jpg"
+thumbnail: "/projects/bpt/logo.gif"
 
 website:
   button_text: Visit the project documentation
