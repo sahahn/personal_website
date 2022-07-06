@@ -20,6 +20,7 @@ intro: |
 
   This project represents the largest and most consistent of any project I have worked on. In the process of developing the library, I learned a great deal about how to generally structure growing code-bases as well as what not to do... (the first iteration of the project may or may not have grown into a giant god class that I had to spend two weeks de-fusing into its current state). The current version of the library has all sorts of other nice things built in too, like automatically generated documentation, CI testing across devices through GitHub Actions and more.
 
+  A number of talks / presentations have been given around this project, including for the OHBM 2022 Educational session, ABCD 2021 annual meeting and ENIGMA 2020 annual meetings.
 
 content_layout:
 

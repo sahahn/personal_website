@@ -7,7 +7,7 @@ project_tags: python, class project
 media: Website
 ownership:
 time_period: Spring 2022
-thumbnail: "/projects/censor/map.png"
+thumbnail: "/projects/censor/map.jpg"
 
 website:
   button_text: Visit the project website.
