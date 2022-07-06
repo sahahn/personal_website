@@ -7,7 +7,7 @@ project_tags: python, ML, NeuroImaging
 media: Website
 ownership:
 time_period: 2021-2022
-thumbnail: "/projects/parc-scaling/outline.png"
+thumbnail: "/projects/parc-scaling/outline.jpg"
 
 website:
   button_text: Visit the elaborate project website
