@@ -23,17 +23,17 @@ content_layout:
     videos:
       - caption: Example video of the game, showing simple playthrough of the first few levels.
         description: First Levels
-        url: https://www.youtube.com/watch?v=wTkGpjGVaU8&ab_channel=SageHahn
+        url: https://www.youtube.com/watch?v=wTkGpjGVaU8
 
       - caption: Example video showing some footage of quickly testing and exploring the level selection interface and hopping in and out of a few different levels.
         description: Random Levels
-        url: https://www.youtube.com/watch?v=1AqG_vlXUNw&ab_channel=SageHahn
-
+        url: https://www.youtube.com/watch?v=1AqG_vlXUNw
+    
       - caption: Example video of an attempted playthrough of Level 7, which features a large number of the different features of the game, including all 3 different types of enemies.
         description: Playthrough of level 7
-        url: https://www.youtube.com/watch?v=K5T2j8PT3-k&t=77s&ab_channel=SageHahn
-
+        url: https://www.youtube.com/watch?v=K5T2j8PT3-k
+      
       - caption: Example video showing off the built-in level editor utility, which allows users to design their own levels, with a custom start location, multiple  end locations, spawn points for different enemies and more.
         description: Example of map editor
-        url: https://www.youtube.com/watch?v=_gVNC7vrMmA&ab_channel=SageHahn
+        url: https://www.youtube.com/watch?v=_gVNC7vrMmA
 ---

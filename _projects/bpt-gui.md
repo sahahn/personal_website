@@ -23,15 +23,15 @@ content_layout:
     videos:
       - caption: Full introduction and presentation of the toolbox as recorded and presented for the ABCD annual meeting in 2020.
         description: Annual meeting intro
-        url: https://www.youtube.com/watch?v=kcmRPlyB4pU&t=158s&ab_channel=SageHahn
+        url: https://www.youtube.com/watch?v=kcmRPlyB4pU
 
       - caption: Brief example showing an early version of the unfinished library part 1
         description: Beta Part 1
-        url: https://www.youtube.com/watch?v=v18wwnxV9pw&ab_channel=SageHahn
+        url: https://www.youtube.com/watch?v=v18wwnxV9pw
 
       - caption: Brief example showing an early version of the unfinished library part 1
         description: Beta Part 2
-        url: https://www.youtube.com/watch?v=4kRt2Ymcr8s&ab_channel=SageHahn
+        url: https://www.youtube.com/watch?v=4kRt2Ymcr8s
 
 
 ---
