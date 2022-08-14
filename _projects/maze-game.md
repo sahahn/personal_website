@@ -1,8 +1,8 @@
 ---
 date: 2017-10-1
 published: true
-title: Maze Game in C++
-description: Game written for advanced programming class in C++
+title: Maze Game
+description: A maze solving game written in C++
 project_tags: C++, class project
 media: Software
 time_period: 2017-2017
