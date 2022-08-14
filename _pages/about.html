@@ -10,6 +10,17 @@ intro: |
 
 profile_picture: /images/profile-pictures/profile.jpg
 
+
+work:
+  - course: Graduate Research Assistant
+    place: Full time graduate research assistant in the Hugh Garavan neuroimaging lab through the Vermont Complex Systems Center (2019-2022)
+    period: 2022
+
+  - course: BA in Computer Science
+    place: Summer position working on various deep learning applications for radiology, in conjunction with the UVM Computer Science Department and the Cardiology and Radiology Departments at the University of Vermont Medical Center.
+    period: 2018
+
+
 education:
   - course: PhD in Complex Systems & Data Science
     place: University of Vermont (2018-2022)
@@ -20,12 +31,16 @@ education:
     period: 2018
 
 skills:
-  - None
-  - None 2
+  - Data Science
+  - Machine Learning
+  - Neuroimaging Analysis
+  - Python
+  - C++
+  - Javascript
+  - Docker
+  - Slurm
 
-tools:
-  - None
-  - None2
+
   
 ---
 
@@ -52,6 +67,18 @@ tools:
 
     <div class="about-attributes">
 
+      <div class="about-work">
+        <div class="about-section">
+          <h3 class="about-section-title type-level-2">Work</h3>
+          <dl class="relational-list">
+            {% for work-item in page.work %}
+              <dt class="relational-list__title">{{ work-item.course | markdownify}}</dt>
+              <dd class="relational-list__description">{{ work-item.place | markdownify}}</dd>
+            {% endfor %}
+          </dl>
+        </div>
+      </div>
+
       <div class="about-education">
         <div class="about-section">
           <h3 class="about-section-title type-level-2">Education</h3>
@@ -64,34 +91,12 @@ tools:
         </div>
       </div>
 
-      <div class="about-tools">
-        <div class="about-section">
-          <h3 class="about-section-title type-level-2">Tools &amp; technologies</h3>
-          <ul class="list--dashed list--small">
-            {% for tool in page.tools %}
-              <li>{{ tool | markdownify }}</li>
-            {% endfor %}
-          </ul>
-        </div>
-      </div>
-
       <div class="about-skills">
         <div class="about-section">
           <h3 class="about-section-title type-level-2">Skills</h3>
           <ul class="list--dashed">
             {% for skill in page.skills %}
               <li>{{ skill }}</li>
-            {% endfor %}
-          </ul>
-        </div>
-      </div>
-
-      <div class="about-fake-quals">
-        <div class="about-section">
-          <h3 class="about-section-title type-level-2">Fake Qualifications</h3>
-          <ul class="list--dashed">
-            {% for f in page.fake %}
-              <li>{{ f }}</li>
             {% endfor %}
           </ul>
         </div>
