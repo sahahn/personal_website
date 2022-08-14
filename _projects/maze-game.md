@@ -12,11 +12,10 @@ website:
   button_text: Visit the project github
   url: https://github.com/sahahn/Maze-Game
 
-intro: This project was completed as a project for the advanced programming class at UVM in Fall 2017. The end result was
-a comprehensive and novel game written in C++ with only a low level graphics library (i.e., display basic shapes and text when provided pixel coordinates).
-Please check out the example videos below and/or the project github.
+intro: |
+  This project was completed as a project for the advanced programming class at UVM in Fall 2017. The end result wasa comprehensive and novel game written in C++ with only a low level graphics library (i.e., display basic shapes and text when provided pixel coordinates). Please check out the example videos below and/or the project github.
 
-The actual code for this project is not the best written, but this project highlights a number of very cool ideas, including ray-tracing, map flipping, maze solving algorithms and more. This project was also completed from start to finish in about a month and a half, and after only a month or two of learning C++.
+  The actual code for this project is not the best written, but this project highlights a number of very cool ideas, including ray-tracing, map flipping, maze solving algorithms and more. This project was also completed from start to finish in about a month and a half, and after only a month or two of learning C++.
 
 content_layout:
 
