@@ -14,7 +14,7 @@ website:
   url: https://sahahn.github.io/BPt/
 
 intro: |
-  The Brain Predictability toolbox (BPt) represents a unified framework of machine learning (ML) tools designed to work with both tabulated data (e.g. brain derived, psychiatric, behavioral and physiological variables) and neuroimaging specific data (e.g. brain volumes and surfaces). This package is suitable for investigating a wide range of different neuroimaging-based ML questions, in particular, those queried from large human datasets.
+  The Brain Predictability toolbox (BPt) represents a unified framework of machine learning (ML) tools designed to work with both tabulated data (e.g. brain derived, psychiatric, behavioral and physiological variables) and neuroimaging specific data (e.g. brain volumes and surfaces). This package is suitable for investigating a wide range of different neuroimaging-based ML questions, in particular, those queried from large human datasets. Also check out the related GUI version of this project [here](/projects/bpt-gui).
 
   The project source code is hosted through [github](https://github.com/sahahn/BPt), as well as the project [documentation](https://sahahn.github.io/BPt/). A paper describing this work  was published in [Bioinformatics](https://academic.oup.com/bioinformatics/article-abstract/37/11/1637/5995310?login=false) in 2021, and is also avaliable on [arvix](https://arxiv.org/abs/2011.01715).
 

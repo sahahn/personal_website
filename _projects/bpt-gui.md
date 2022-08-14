@@ -13,7 +13,7 @@ website:
   url: https://github.com/sahahn/BPt_app
 
 intro: |
-  As an extension / alternate project to the base [BPt](./bpt.md) library, I developed an extensive GUI interface written in javascript, with a backend apache webserver in python and PHP. Presentations regarding this GUI were given at the ABCD and ENIGMA group annual meetings respectively in 2020. 
+  As an extension / alternate project to the base [BPt](/projects/bpt) library, I developed an extensive GUI interface written in javascript, with a backend apache webserver in python and PHP. Presentations regarding this GUI were given at the ABCD and ENIGMA group annual meetings respectively in 2020. 
 
   This project made use of a number of existing libraries and tools and represents a modern web UI applet approach to machine learning. While not actively maintained, this project involved a tremendous amount of work, and was a valuable learning experience for designing web applications. 
 
