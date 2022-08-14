@@ -2,14 +2,14 @@
 date: 2017-10-1
 published: true
 title: Maze Game
-description: A maze solving game written in C++
+description: "A maze solving game written in C++."
 project_tags: C++, class project
 media: Software
 time_period: 2017-2017
 thumbnail: "/projects/maze-game/ex.gif"
 
 website:
-  button_text:
+  button_text: Visit the project github
   url: https://github.com/sahahn/Maze-Game
 
 intro: This project was completed as a project for the advanced programming class at UVM in Fall 2017. The end result was
