@@ -23,15 +23,15 @@ intro: |
 
 content_layout:
 
-  - section_layout: 1col
+  - section_layout: 2col
     videos:
 
-      - caption: Slides containing project presentation on differential privacy
-        description: Slides
+      - caption: Slides containing project presentation on differential privacy.
+        description: Slides for class project
         url: https://docs.google.com/presentation/d/e/2PACX-1vRfHQoEU-ZH0x9W60C17kLGPAexVUqAqQLHcMcr6qDErU_cWL-etmExjfLa2DrHBxgRYrY7Vb_x_tNU/embed?start=false&loop=false&delayms=5000
 
       - caption: Slides presented to the ABCD bioinformatics working group.
-        description: Slides 2
+        description: Slides for ABCD working group
         url: https://docs.google.com/presentation/d/e/2PACX-1vTViyGilKr9BcITKMebMdgvXWmCaKJI1wytCW7WHFr3-uwZCTnDiTB_-ifYDLo0RKc3U5q1tr6UQQ_R/embed?start=false&loop=false&delayms=5000
 
 ---
