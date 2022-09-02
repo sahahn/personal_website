@@ -12,7 +12,7 @@ website:
   button_text: Github
   url: https://github.com/sahahn/neurotools
 
-intro: |s
+intro: |
   neurotools represents a modern python library (avaliable by pypip, regularly tested with automated CI tools across operating systems, automated documentation, etc...) for working with neuroimaging data. 
 
   This library provides a range of key functionality, and integrates nicely with 
