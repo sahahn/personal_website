@@ -1,5 +1,5 @@
 ---
-date: 2022-4-1
+date: 2022-4-2
 published: true
 title: neurotools
 description: A modern python library with a range of utilities for working with neuroimaging data.
