@@ -1,11 +1,11 @@
 ---
-date: 2021-5-17
-published: fa
-title: Lexical vs. Dynamic Scoping (within a compiler)
+date: 2021-1-17
+published: true
+title: Lexical vs. dynamic scope (compilers)
 description: Project comparing between lexical and dynamic scoping for lambda functions when constructing a compiler for a programming language.
 project_tags: python, compilers, class
 media: Class Project
-time_period: 2021-2-21
+time_period: 2021
 thumbnail: "/projects/compilers/compilers.jpg"
 
 website:
