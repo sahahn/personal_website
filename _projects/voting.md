@@ -26,7 +26,9 @@ content_layout:
         description: Voting Simulation
         url: https://www.youtube.com/embed/wSre4Z1sLA8
 
----
+      - caption: Test
+        description: Test
+        url: https://docs.google.com/presentation/d/e/2PACX-1vSFzki8tHuNRjvoGQsiuSEvMow0ss3JweBTAlCX2a1pV2rcbnKu9Jte4IxEZxABjcVZsXHLvfSvXtLm/embed?start=true&loop=false&delayms=3000
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSFzki8tHuNRjvoGQsiuSEvMow0ss3JweBTAlCX2a1pV2rcbnKu9Jte4IxEZxABjcVZsXHLvfSvXtLm/embed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+---
 
