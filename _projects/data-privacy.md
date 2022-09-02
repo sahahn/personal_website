@@ -1,6 +1,6 @@
 ---
 date: 2018-7-1
-published: false
+published: true
 title: Differentially Private Synthetic Data
 description: This project 
 project_tags: python, differential privacy, class project
