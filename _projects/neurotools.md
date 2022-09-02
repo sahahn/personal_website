@@ -13,7 +13,7 @@ website:
   url: https://github.com/sahahn/neurotools
 
 intro: |
-  neurotools represents a modern python library (avaliable by pypip, regularly tested with automated CI tools across operating systems, automated documentation, etc...) for working with neuroimaging data. 
+  neurotools represents a modern python library (avaliable by pypip, regularly tested with automated CI tools across operating systems, automated [documentation](https://sahahn.github.io/neurotools/), etc...) for working with neuroimaging data. 
 
   This library provides a range of key functionality, and integrates nicely with 
   [The Brain Predictability toolbox](/projects/bpt). Key features include a range of smart automated plotting functions, tools for loading neuroimaging specific data, tools for applying network based measurements, tools for performing reliability style analyses, a permutation test implementation with support for v-statistics and a nested block exchanability structure, tools for applying parcellations to surfaces and much more. 
