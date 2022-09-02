@@ -1,5 +1,5 @@
 ---
-date: 2020-8-1
+date: 2021-1-1
 published: true
 title: Brain Predictability toolbox GUI
 description: An extensive GUI interface for the python based The Brain Predictability toolbox
