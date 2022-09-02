@@ -1,12 +1,12 @@
 ---
 date: 2018-2-1
-published: false
+published: true
 title: Evolutionary Robotics
 description: Evolving robots with a sparsity constraint on the weights of their neural networks.
 project_tags: python, robotics, class project
 media: github
 time_period: 2018
-thumbnail:
+thumbnail: "/projects/ev-robotics/robots.gif"
 
 website:
   button_text: Github
