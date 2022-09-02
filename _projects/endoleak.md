@@ -37,7 +37,7 @@ content_layout:
 
       - caption: Full slideshow presenting research project and results
         description: Slides
-        url: https://docs.google.com/presentation/d/e/2PACX-1vSoly5jM9tY6D_MleWWPlNKv9ddlCKu7Icn6lThkSj8Zr8IvEIk7dEoDQCHNzE8ee9LowzTNxsCvTfn/embed?start=false&loop=false&delayms=5000
+        url: https://docs.google.com/presentation/d/e/2PACX-1vTOwAlpRKR9wzGyfo_-T5jusAmO3VH9jwx8VhWRrI6U-yTO9JFrpNVX8MxAf8GCriTg9uILiz96bcDW/embed?start=false&loop=false&delayms=5000
 
     images:
 
