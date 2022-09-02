@@ -9,7 +9,7 @@ time_period: 2020-2021
 thumbnail: "/projects/bpt-gui/ex.gif"
 
 website:
-  button_text:
+  button_text: Github
   url: https://github.com/sahahn/BPt_app
 
 intro: |
