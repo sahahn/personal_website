@@ -18,6 +18,8 @@ intro: |
     a specially designed evolutionary search was performed, where parcellations themselves were mutated and evaluated.
     The project source code is hosted through [github](https://github.com/sahahn/Parcel_Search).
 
+    A slide deck containing a detailed description of the project, as well as results + interpretation can be found [here](https://docs.google.com/presentation/d/15acie-MotSbmBgjtz1Cy2Ra6R32l-b0qKq68x8Cl4r4/edit?usp=sharing).
+
     The eventual key take-away from this work was actually the realization that parcellations with higher numbers of parcels performed better than their lower
     parcel counter-parts. This led to follow-up work in [Performance Scaling for Parcellations](../parc-scaling)
 
