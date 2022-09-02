@@ -13,7 +13,7 @@ website:
   url: https://github.com/sahahn/compilers_final_project
 
 intro: |
-  This project was completed for an introduction to Compilers course at UVM. My implementation focused on a lambda function with lexical scoping as well as in the same compiler an alternate function called 'dynam', with simmilar function to lambda, but dynamic scoping (variables passed at the time the function is called). This project aimed to get at the pro's and con's of each approach.
+  This project was completed as a part of the Introduction to Compilers course taught at UVM. My final project implementation focused on a lambda function with lexical scoping as well as in the same compiler an alternate function called 'dynam', with simmilar function to lambda, but dynamic scoping (variables passed at the time the function is called). This project aimed to get at the pro's and con's of each approach.
   
-  See the [github](https://github.com/sahahn/compilers_final_project) for more information.
+  See the project [github](https://github.com/sahahn/compilers_final_project) for more information.
 ---
