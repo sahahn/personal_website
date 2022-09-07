@@ -6,7 +6,7 @@ description: A modern python library with a range of utilities for working with 
 project_tags: python, NeuroScience
 media: Website
 time_period: 2020-present
-thumbnail: "/projects/neurotools/nt_ex.png"
+thumbnail: "/projects/neurotools/nt_ex.jpg"
 
 website:
   button_text: Github
