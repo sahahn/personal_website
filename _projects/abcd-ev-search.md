@@ -1,11 +1,11 @@
 ---
 date: 2018-10-1
 published: true
-title: Evolutionary Search for Feature Selection
-description: Framework to conduct evolutionary search based feature selection.
+title: "Evolutionary Search for Feature Selection"
+description: "Framework to conduct evolutionary search based feature selection."
 project_tags: python, ML
 media: Github
-time_period: 2018
+time_period: 2018-2018
 thumbnail: "/projects/abcd-ev-search/thumb.jpg"
 
 website:
