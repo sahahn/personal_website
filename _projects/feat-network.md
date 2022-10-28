@@ -6,7 +6,7 @@ description: Network based analysis and construction of feature relationships.
 project_tags: python, network science
 media: project
 time_period: 2019-2019
-thumbnail: /projects/feat-network/net_proj.png
+thumbnail: /projects/feat-networks/net_proj.png
 
 website:
   button_text: Project Write-Up
@@ -38,11 +38,11 @@ content_layout:
     images:
       - caption: Figure showing how networks of features as are defined.
         description: Figure 1
-        url: /projects/feat-network/new_con.png
+        url: /projects/feat-networks/new_con.png
 
       - caption: Figure showing how networks of features are projected.
         description: Figure 2
-        url: /projects/feat-network/net_proj.png
+        url: /projects/feat-networks/net_proj.png
   
     videos:
       - caption: Presentation Slides
