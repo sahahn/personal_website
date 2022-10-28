@@ -1,6 +1,6 @@
 ---
 date: 2019-1-1
-published: True
+published: true
 title: Feature Importance Networks
 description: Network based analysis and construction of feature relationships.
 project_tags: python, network science
@@ -9,8 +9,8 @@ time_period: 2019-2019
 thumbnail: /projects/feat-network/net_proj.png
 
 website:
-  button_text: Project Code
-  url: /projects/feat-network/net_proj.png
+  button_text: Project Write-Up
+  url: [/projects/resourc/net_proj.png](https://sagehahn.com/images/resources/feat-networks.pdf)
 
 intro: |
 
