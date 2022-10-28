@@ -10,7 +10,7 @@ thumbnail: /projects/feat-network/net_proj.png
 
 website:
   button_text: Project Write-Up
-  url: [/projects/resourc/net_proj.png](https://sagehahn.com/images/resources/feat-networks.pdf)
+  url: https://sagehahn.com/images/resources/feat-networks.pdf
 
 intro: |
 
