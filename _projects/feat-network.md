@@ -14,4 +14,6 @@ website:
 
 intro: |
 
+  Slides for the project [here](https://docs.google.com/presentation/d/1sqaa38iVoy-EgTxkin2qmXb14UeSfZCpYg0Smjvod48/edit?usp=sharing).
+
 ---

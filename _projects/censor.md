@@ -2,7 +2,7 @@
 date: 2022-4-1
 published: true
 title: "Visualizing Censorship"
-description: "Visualizing Censorship on Interactive Maps"
+description: "Visualizing censorship (as defined by introduced legislations) on interactive maps"
 project_tags: python, class project
 media: Website
 ownership:

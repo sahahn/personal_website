@@ -32,6 +32,13 @@ intro: |
 content_layout:
 
   - section_layout: 2col
+
+    videos:
+
+      - caption: Full slideshow presenting research project and results
+        description: Slides
+        url: https://docs.google.com/presentation/d/e/2PACX-1vTOwAlpRKR9wzGyfo_-T5jusAmO3VH9jwx8VhWRrI6U-yTO9JFrpNVX8MxAf8GCriTg9uILiz96bcDW/embed?start=false&loop=false&delayms=5000
+
     images:
 
       - caption: Overview of the pipeline illustrating use of three modified convolutional neural networks (CNNs). See "Machine deep learning accurately detects endoleak after endovascular abdominal aortic aneurysm repair" for a more detailed description of the full algorithm.
@@ -57,5 +64,7 @@ content_layout:
         url: '/projects/endoleak/predict_seg.gif'
         width:
         height:
+
+   
 
 ---

@@ -10,7 +10,7 @@ time_period: 2020-present
 thumbnail: "/projects/bpt/logo.gif"
 
 website:
-  button_text: Visit the project documentation
+  button_text: Project Documentation
   url: https://sahahn.github.io/BPt/
 
 intro: |
