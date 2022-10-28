@@ -2,7 +2,7 @@
 date: 2019-1-1
 published: true
 title: Feature Importance Networks
-description: Network based analysis and construction of feature relationships.
+description: Network based analysis and construction of feature relationships
 project_tags: python, network science
 media: project
 time_period: 2019-2019

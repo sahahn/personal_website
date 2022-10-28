@@ -2,7 +2,7 @@
 date: 2020-10-1
 published: true
 title: Modeling Community Resource Usage
-description: Project investigating network based modelling of resource usage.
+description: Project investigating network based modelling of resource usage
 project_tags: modeling, python, project
 media: Project
 time_period: 2020-2020

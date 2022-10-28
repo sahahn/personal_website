@@ -2,7 +2,7 @@
 date: 2018-7-1
 published: true
 title: Differentially Private Synthetic Data
-description: This project 
+description: Methods for generating synthetically private datasets
 project_tags: python, differential privacy, class project
 media: Github
 time_period: 2018-2018
