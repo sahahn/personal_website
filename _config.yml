@@ -31,7 +31,7 @@ sitemap: true
 
 # Social networks
 social-username:
-  twitter: "@sagehahn11"
+  twitter: ""
   linkedin: "sage-hahn-1043a6156"
   github: "sahahn"
 
@@ -63,6 +63,8 @@ navigation:
     url: /
   - title: About
     url: /about
+  - title: Blog
+    url: /blog
 
 permalink: /:title/
 
@@ -71,6 +73,10 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+
+  blog:
+    output: true
+    permalink: /blog/:path/
 
 defaults:
   - scope:

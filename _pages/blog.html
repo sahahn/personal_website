@@ -1,0 +1,33 @@
+---
+layout: page
+title_override: Sage Hahn - Programmer / Data Scientist, maybe
+redirect_from: /blog
+permalink: /blog/
+priority: 1.0
+---
+
+<div class="projects-intro-wrapper">
+  <p class="projects-intro type-level-1">These are some blog posts I wrote:</p>
+</div>
+
+<div class="about-intro-description paragraph-normal">
+  {{ page.intro | markdownify }}
+</div>
+
+<div class="projects">
+{% for project in site.blog reversed limit:include.limit %}
+  <article class="project-listing">
+    <div class="thumbnail-wrapper">
+      <a href="{{ project.url | prepend: site.baseurl }}">
+        <div class="thumbnail-description-wrapper" >
+          <img src="{{ project.thumbnail | prepend: site.image_serve_path }}" alt="{{ project.title }}"  style="height: 100%; width: 100%;">
+          <p class="thumbnail-description">
+            <span>{{ project.description }}</span>
+          </p>
+        </div>
+        <h3 aria-hidden="true" style="text-align: center;">{{ project.title }}</h3>
+      </a>
+    </div>
+  </article>
+{% endfor %}
+</div>
