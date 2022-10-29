@@ -14,9 +14,9 @@ website:
 
 intro: |
 
- This project was designed to formalize an evolutionary search based feature selection methodology for use specifically with the ABCD dataset. 
+ This project was designed to formalize an evolutionary search based feature selection methodology for use specifically with the ABCD dataset. A key trait of this project was it was designed to run within a high performance computing environment, with computations spread across multiple compute nodes.
 
- A key trait of this project was it was designed to run within a high performance computing environment, with computations spread across multiple compute nodes.
+ The evolutionary search was also designed with built-in multi-objective age pareto front optimization.
 
- The evolutionary search is designed with built-in multi-objective age pareto front optimization.
+ Checkout the project [github](https://github.com/sahahn/ABCD_Ev_Search) for more information.
 ---
