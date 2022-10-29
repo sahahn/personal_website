@@ -14,8 +14,6 @@ website:
 
 intro: |
 
- See the full project write-up [here](https://sagehahn.com/images/resources/feat-networks.pdf)
-
  There exists within computational neuroscience,
  among a number of other fields, a significant
  ideological gap between descriptive statistics and
@@ -31,7 +29,11 @@ intro: |
  of complexity. Within the scope of this work I attempt
  to further bridge the gap between complexity and
  explain-ability via the construction of a feature
- importance network
+ importance network.
+
+ See the full project write-up [here](https://sagehahn.com/images/resources/feat-networks.pdf)
+
+ This was a course project, and my final presentation can be found below.
 
 content_layout:
   - section_layout: 2col
