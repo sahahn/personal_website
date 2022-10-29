@@ -61,10 +61,15 @@ compress_html:
 navigation:
   - title: Projects
     url: /
+    icon: fa-book
+    
   - title: About
     url: /about
+    icon: fa-user
+
   - title: Blog
     url: /blog
+    icon: fa-rss
 
 permalink: /:title/
 

@@ -42,20 +42,19 @@
             {% endif %}
 
             <li>
-              <a{{ current }} itemprop="url" href="{{ link.url }}"><span itemprop="name">{{ link.title }}</span></a>
+              <a{{ current }} itemprop="url" href="{{ link.url }}"><span class="fa {{ link.icon }}" itemprop="name"> {{ link.title }}</span></a>
             </li>
           {% endfor %}
 
             <li>
               <a target="_blank" itemprop="url" href="https://github.com/sahahn">
-                <span class="fa fa-github"></span></a>
+                <span itemprop="name" class="fa fa-github-square"> Github</span></a>
             </li>
 
             <li>
               <a target="_blank" itemprop="url" href="https://scholar.google.com/citations?user=FKmPwb4AAAAJ&hl=en">
-                <span class="fa fa-graduation-cap"></span></a>
+                <span itemprop="name" class="fa fa-graduation-cap"> Publications</span></a>
             </li>
-
 
           </ul>
           
